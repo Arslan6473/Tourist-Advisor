@@ -26,7 +26,7 @@ function List({ places, isLoading, type, setType }) {
         </div>
       </div>
 
-      <div className="grid place-items-center overflow-x-hidden   gap-3 max-h-[380px] overflow-y-auto ">
+      <div className="grid place-items-center overflow-x-hidden   gap-3 max-h-[68.9vh] overflow-y-auto ">
         {isLoading ? (
           <>
             <h1 className="text-white text-3xl font-medium overflow-hidden p-4">Loding....</h1>

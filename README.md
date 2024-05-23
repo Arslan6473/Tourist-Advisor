@@ -5,7 +5,7 @@ Features :
 * Search places ,hotesla and resturants all around the word
 * Search weather of the specific city at the same time
 
-## Technical Details :
+Technical Details :
 
 * React 18 
 * Tailwind CSS

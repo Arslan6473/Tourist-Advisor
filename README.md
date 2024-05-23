@@ -2,7 +2,7 @@
 Tourist Advisor web application is a platform for the tourist where they can search hotels , restaurants and attraction all over the world also check the weather.
 
 Features :
-* Search places ,hotesla and resturants all around the word
+* Search places ,hotels and resturants all around the world
 * Search weather of the specific city at the same time
 
 Technical Details :
